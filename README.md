@@ -142,4 +142,3 @@ document.getElementById("aboutText").innerText = content[lang].aboutText;
 </body>
 </html>
 
-Gesendet mit der WEB.DE Mail App
